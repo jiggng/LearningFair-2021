@@ -6,7 +6,7 @@ import pygame
 w = Tk()
 w.geometry("640x480+700+150")
 w.resizable(False, False)
-w.title("인물퀴즈(알고리즘8팀)")
+w.title("인물퀴즈")
 
 ## 변수
 num = 0
